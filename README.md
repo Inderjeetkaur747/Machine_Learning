@@ -1,93 +1,66 @@
-📘 Machine Learning Concepts – Complete Jupyter Notebook
+This repository contains my complete Machine Learning learning path, implemented step-by-step in a single Jupyter Notebook.
+It covers everything from data preprocessing → supervised learning → unsupervised learning → ensemble learning, along with practical examples and visualizations.
 
-This repository contains a complete end-to-end Machine Learning notebook covering all the core concepts required for interviews, ML engineering roles, and practical understanding of real-world ML workflows.
+I created this notebook to revise all ML concepts, strengthen my interview prep, and help others starting their ML journey.
 
-This is the perfect resource for beginners & intermediate learners who want a structured, concept-first ML guide.
-
- What’s Inside?
-✔ Machine Learning Foundations
-
-What is ML?
-
-Types of ML (Supervised, Unsupervised)
-
-Bias–variance
-
-Overfitting vs underfitting
-
-ML pipeline overview
-
-✔ Exploratory Data Analysis (EDA)
-
-Data cleaning
-
-Feature distribution
-
-Correlation
+ What’s Inside the Notebook?
+🔹 1. Data Cleaning & Preprocessing
 
 Handling missing values
 
-Outlier analysis
+Outlier detection (IQR, Z-Score)
 
-✔ Feature Engineering
+Data transformation & normalization
 
-Scaling (StandardScaler, MinMaxScaler)
+Label Encoding & One-Hot Encoding
 
-Encoding (OneHot, Label Encoding)
+Feature scaling (MinMax, StandardScaler)
 
-Feature selection
+Train/Test splitting
 
-Polynomial features
+Handling imbalanced datasets (SMOTE)
 
-✔ Supervised Learning Algorithms
+🔹 2. Supervised Learning
+Classification & Regression Models
 
 Linear Regression
 
 Logistic Regression
 
-KNN
+K-Nearest Neighbors (KNN)
 
-Naive Bayes
-
-Decision Trees
+Decision Tree
 
 Random Forest
 
-Gradient Boosting / XGBoost
+Support Vector Machine (SVM)
 
-SVM
+Naive Bayes
 
-✔ Unsupervised Learning
+Model Evaluation Metrics:
+Accuracy • Precision • Recall • F1-Score • Confusion Matrix • ROC-AUC
+
+🔹 3. Unsupervised Learning
 
 K-Means Clustering
 
 Hierarchical Clustering
 
+DBSCAN
+
+PCA (Dimensionality Reduction)
+
+Evaluation:
+Elbow Method • Silhouette Score
+
+🔹 4. Ensemble Learning
+
+Bagging (Random Forest)
+
+Boosting (AdaBoost, GradientBoosting, XGBoost)
 
 
-Anomaly Detection (Isolation Forest)
-
-✔ Model Evaluation & Metrics
-
-RMSE, MAE
-
-Accuracy, Precision, Recall
-
-Confusion Matrix
-
-ROC-AUC
-
-Silhouette Score
-
-✔ Model Optimization
-
-Cross-validation (K-fold)
-
-GridSearchCV / RandomizedSearchCV
-
-Regularization (L1, L2)
-
-Tech Stack: 
+Technologies Used
 
 Python
 
@@ -101,26 +74,32 @@ Matplotlib
 
 Seaborn
 
-Jupyter Notebook
+XGBoost
 
-Who is this for?
+Project Goal
 
-ML beginners
+This notebook helps to:
 
-Job seekers preparing for ML/AI roles
+Build a strong understanding of ML foundations
 
-Students & self-learners
+Prepare for machine learning interviews
 
-Anyone who wants a clean, structured ML notebook in one place
+Strengthen GitHub portfolio with clean ML work
 
-Future Updates
 
-Deep Learning notebook
+Future Add-ons
 
-More ML projects
+Feature engineering notebook
 
-Model deployment demos
+Hyperparameter tuning
 
-Contributions
+Model deployment (FastAPI / Streamlit)
 
-Feel free to open issues or submit pull requests.
+Deep Learning series (CNN, RNN, Transformers)
+
+🤝 Connect With Me
+
+If you find this useful or want to collaborate:
+
+🔗 LinkedIn: https://www.linkedin.com/in/inderjeet-kaur-31a2391ba/
+Don’t forget to star the repo!
