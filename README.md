@@ -87,7 +87,7 @@ GridSearchCV / RandomizedSearchCV
 
 Regularization (L1, L2)
 
-🛠️ Tech Stack
+Tech Stack: 
 
 Python
 
@@ -103,7 +103,7 @@ Seaborn
 
 Jupyter Notebook
 
-🎯 Who is this for?
+Who is this for?
 
 ML beginners
 
@@ -113,7 +113,7 @@ Students & self-learners
 
 Anyone who wants a clean, structured ML notebook in one place
 
-⭐ Future Updates
+Future Updates
 
 Deep Learning notebook
 
@@ -121,6 +121,6 @@ More ML projects
 
 Model deployment demos
 
-🤝 Contributions
+Contributions
 
 Feel free to open issues or submit pull requests.
